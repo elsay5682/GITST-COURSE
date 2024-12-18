@@ -1,2 +1,2 @@
 # GTST COURSE
- NEW REPO
+ This is note written while taking the Geez Tech security Tester® course.
